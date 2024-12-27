@@ -12,7 +12,7 @@ This repository extends the [ReChorus framework](https://github.com/THUwangcy/Re
 - Time-aware recommendation  
 
 ReChorus prioritizes lightweight and modular design, making it easy for researchers to implement, test, and compare various recommendation algorithms under standardized experimental settings.  
-For more details, see the [ReChorus paper](https://arxiv.org/abs/2303.11780).
+For more details, see the [ReChorus paper](https://jos.org.cn/jos/article/abstract/6473?st=article_issue).
 
 ### About DCRec
 [DCRec](https://github.com/HKUDS/DCRec) is a novel framework for sequential recommendation that addresses the inherent popularity bias in data augmentation. Key innovations of DCRec include:
