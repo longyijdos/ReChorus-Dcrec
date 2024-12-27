@@ -59,7 +59,7 @@ Ensure that the DGL version is compatible with your PyTorch installation.
 
 ## Usage
 
-To run the project, navigate to the `src` folder and execute the following command:
+To run the project, execute the following command:
 ```bash
 cd src
 python3 main.py --model_name [model_name] --dataset [dataset_name] --path [path_to_dataset]
