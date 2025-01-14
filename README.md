@@ -1,5 +1,7 @@
 # ReChorus-Dcrec Extension
 
+![logo](./images/logo.jpg)
+![framework](./images/framework.png)
 ## Introduction
 
 This repository extends the [ReChorus framework](https://github.com/THUwangcy/ReChorus) by integrating the **Dcrec model**, a state-of-the-art approach for sequential recommendation. This integration combines the lightweight and modular design of ReChorus with the innovative debiased contrastive learning paradigm introduced by DCRec, offering enhanced performance and flexibility.
