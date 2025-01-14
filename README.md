@@ -1,6 +1,6 @@
 # ReChorus-Dcrec Extension
 
-![logo](./images/logo.jpg)
+![logo](./images/logo.png)
 ![framework](./images/framework.png)
 ## Introduction
 
