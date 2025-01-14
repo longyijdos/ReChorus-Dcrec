@@ -1,11 +1,11 @@
 # ReChorus-Dcrec Extension
 
 ![logo](./images/logo.png)
-![framework](./images/framework.png)
+
 ## Introduction
 
 This repository extends the [ReChorus framework](https://github.com/THUwangcy/ReChorus) by integrating the **Dcrec model**, a state-of-the-art approach for sequential recommendation. This integration combines the lightweight and modular design of ReChorus with the innovative debiased contrastive learning paradigm introduced by DCRec, offering enhanced performance and flexibility.
-
+![framework](./images/framework.png)
 ### About ReChorus
 [ReChorus](https://github.com/THUwangcy/ReChorus) is a comprehensive, efficient, and flexible recommendation framework implemented in PyTorch. It supports diverse recommendation tasks, including:
 - General recommendation
